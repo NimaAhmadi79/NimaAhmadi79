@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Nima Ahmadi, a passionate Python programmer and computer engineering graduate with a knack for artificial intelligence and efficient neural network design. With a solid foundation in image processing, I bring practical and industrial experience to the table, making me adept at solving real-world problems.
+
+### 💻 Sub-Skills
+<b> Programming Languages </b> : Java, C#\
+<b>Web Development</b>: HTML, CSS, JavaScript, Django
+
+### 📫 Get in Touch
+<b>Email</b>: Nima87760@gmail.com
+
 
 <!--
 **NimaAhmadi79/NimaAhmadi79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
