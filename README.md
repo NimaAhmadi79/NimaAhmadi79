@@ -1,26 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Nima Ahmadi
 
-I'm Nima Ahmadi, a passionate Python programmer and computer engineering graduate with a knack for artificial intelligence and efficient neural network design. With a solid foundation in image processing, I bring practical and industrial experience to the table, making me adept at solving real-world problems.
+🎓 **M.Sc. Student in Artificial Intelligence for Science and Technology**  
+📍 University of Milano-Bicocca, Italy
 
-### 💻 Sub-Skills
-<b> Programming Languages </b> : Java, C#\
-<b>Web Development</b>: HTML, CSS, JavaScript, Django
+I'm a Computer Engineer specializing in **Artificial Intelligence, Deep Learning, and Computer Vision**. My work focuses on developing and evaluating machine learning models, image classification, explainable AI, and practical AI applications.
 
-### 📫 Get in Touch
-<b>Email</b>: Nima87760@gmail.com
+### 🔬 Technical Interests
+- **Computer Vision:** Image Classification, Image Processing, OCR
+- **Deep Learning:** CNNs, Transfer Learning, ResNet, Vision Transformers
+- **Explainable AI (XAI):** LIME and model interpretability
+- **Machine Learning:** Model Training, Evaluation, and Hyperparameter Tuning
+- **Automotive AI:** ADAS systems, validation, calibration, and testing
 
+### 🛠️ Tech Stack
+**Languages:** Python, SQL, Java, C#  
+**AI/ML:** PyTorch, TensorFlow/Keras, Scikit-learn  
+**Computer Vision:** OpenCV, scikit-image  
+**Data & Visualization:** NumPy, Pandas, Matplotlib  
+**Tools:** Git, GitHub, Jupyter Notebook, MATLAB
 
-<!--
-**NimaAhmadi79/NimaAhmadi79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Featured Projects
+- **Computer Vision & Deep Learning:** Image classification and visual recognition.
+- **Explainable AI:** Interpreting model predictions using LIME.
+- **EEG Signal Classification:** Deep learning for motor imagery classification.
+- **ADAS Development & Validation:** Experience with automotive safety systems, testing, calibration, and CAN-bus analysis.
 
-Here are some ideas to get you started:
+I'm interested in building reliable AI solutions, exploring modern deep learning architectures, and applying machine learning to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact:** Nima87760@gmail.com
